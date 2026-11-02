@@ -29,20 +29,21 @@
 ### 🚀 About Me
 
 - 🎓 **Education:** Computer Science & Engineering @ BMS College of Engineering (BMSCE)
-- 💻 **Backend Engineering:** Java, Spring Boot, Spring Data JPA, Hibernate & MySQL
-- 🧩 **Competitive Programming:** Regularly solving Data Structures & Algorithms challenges on [LeetCode (@TG25)](https://leetcode.com/u/TG25/)
-- 🛠️ **Flagship Project:** Developing **The Ingredient Digout** — an automated health & allergen inspection engine
+- 💻 **Core Focus:** Java, Spring Boot, PostgreSQL, and Data Structures & Algorithms
+- 🧩 **Competitive Programming:** Regularly solving challenges on [LeetCode (@TG25)](https://leetcode.com/u/TG25/)
+- 🛠️ **Current Project:** Building **DigOut (The Ingredient Digout)** — an AI ingredient and allergen scanner
 - 📫 **Let's Connect:** Reach out on [LinkedIn](https://www.linkedin.com/in/g-tarun-6b86a63b7/) or via email at `gopi.tarun1978@gmail.com`
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Current Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode&perline=6" alt="Tarun's Tech Stack" />
+  <!-- Replaced vscode with idea (IntelliJ IDEA) -->
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,tailwind,docker,git,github,idea&perline=5" alt="Tarun's Tech Stack" />
 </div>
 
-<p align="center"><i>Building scalable backend services and solid algorithmic foundations.</i></p>
+<p align="center"><i>Mastering core fundamentals — continuously learning and expanding.</i></p>
 
 ---
 
@@ -50,14 +51,13 @@
 
 | Project | Tech Stack | Description | Source Code |
 | :--- | :--- | :--- | :--- |
-| **[The Ingredient Digout](https://github.com/Tarun25082007/the-ingredient-digout)** | `Java` `Spring Boot` `Spring Data JPA` `MySQL` `Hibernate` `Lombok` | Backend application that ingests raw OCR label scans, parses and maps ingredients against WHO safety guidelines, and generates traffic-light health ratings (`RED`, `YELLOW`, `GREEN`). | [View Repository](https://github.com/Tarun25082007/the-ingredient-digout) |
+| **[DigOut (The Ingredient Digout)](https://github.com/Tarun25082007/the-ingredient-digout)** | `Java` `Spring Boot` `PostgreSQL` `React` `Docker` `Gemini AI` | Full-stack application that scans product labels via camera or barcode, detects allergens and additives using AI, and checks nutritional guidelines. | [View Repository](https://github.com/Tarun25082007/the-ingredient-digout) |
 
 ---
 
 ### 📊 Competitive Programming Activity
 
 <div align="center">
-  <!-- Verified, High-Uptime LeetCode Dashboard -->
   <a href="https://leetcode.com/u/TG25/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/TG25?theme=nord&font=Fira%20Code" alt="Tarun's LeetCode Stats" height="175" />
   </a>
