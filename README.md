@@ -54,20 +54,12 @@
 
 ---
 
-### 📊 Coding & Activity Stats
+### 📊 Competitive Programming Activity
 
 <div align="center">
-  <!-- GitHub Stats & Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarun25082007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun25082007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Live LeetCode Stats Card -->
+  <!-- Verified, High-Uptime LeetCode Dashboard -->
   <a href="https://leetcode.com/u/TG25/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/TG25?theme=nord&font=Fira%20Code" alt="Tarun's LeetCode Stats" height="160" />
+    <img src="https://leetcard.jacoblin.cool/TG25?theme=nord&font=Fira%20Code" alt="Tarun's LeetCode Stats" height="175" />
   </a>
 </div>
 
