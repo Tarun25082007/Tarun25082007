@@ -4,7 +4,7 @@
 
 <!-- Animated Headline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=550&lines=Computer+Science+Undergrad;Java+%26+Spring+Boot+Developer;Problem+Solver+%7C+LeetCode+Enthusiast;Building+The+Ingredient+Digout" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Computer+Science+Undergrad;Java+%26+Spring+Boot+Developer;Problem+Solver+%7C+LeetCode+Enthusiast" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -39,7 +39,6 @@
 ### 🛠️ Current Tech Stack & Tools
 
 <div align="center">
-  <!-- Replaced vscode with idea (IntelliJ IDEA) -->
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,tailwind,docker,git,github,idea&perline=5" alt="Tarun's Tech Stack" />
 </div>
 
